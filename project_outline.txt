@@ -1,0 +1,29 @@
+project_outline:
+
+library management system:
+---add new book
+---editing book
+---deleting book
+---categories
+---search
+---users, login, signup
+---settings(categories, author, publisher
+---day to day operations
+---reports(excel files)
+
+books:
+	- title
+	- description
+	- category
+	- price
+	- author
+	- publisher
+
+users:
+	- username
+	- password
+	- email address
+
+fixes-
+--> if books not found app crashes
+--> when one theme is applied other theme is not applied
